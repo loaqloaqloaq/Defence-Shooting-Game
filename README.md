@@ -5,6 +5,7 @@
 - 熊に襲われないようにするゲームです。
 - 熊の攻撃力は熊のHPと同じです。
 - プレイヤーのHPが0になった次第ゲーム終了します。
+- 実行ファイル：https://github.com/loaqloaqloaq/Defence-Shooting-Game/releases
 
 
 # 操作方法：
